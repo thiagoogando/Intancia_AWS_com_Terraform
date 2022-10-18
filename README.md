@@ -1,1 +1,1 @@
-# Intancia_AWS_com_Terraform
+# Código em Terraform para criação de uma instância na Aws
